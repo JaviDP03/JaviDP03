@@ -1,16 +1,30 @@
-### Hi there 👋
+# 👋 ¡Hola! Soy Javier.
 
-<!--
-**JaviDP03/JaviDP03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Actualmente estoy estudiando **Desarrollo Web** con enfoque en **Java**.  
+💻 Me gusta aprender creando proyectos y explorando nuevas tecnologías.  
+🚀 En este repositorio personal encontrarás algunos de mis avances, prácticas y proyectos personales.
 
-Here are some ideas to get you started:
+## 🧰 Tecnologías que estoy usando/estudiando
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java (SpringBoot, JDBC)
+- Angular HTML, CSS, JavaScript
+- MySQL, SQL Server
+- Git & Subversion
+- Delphi
+
+## 📌 Objetivos actuales
+
+- Mejorar mi dominio de Java para el desarrollo web
+- Aprender frameworks como **Spring Boot** y **Angular**
+- Desarrollar proyectos completos del lado del servidor y del cliente
+- Seguir mi aprendizaje de **Delphi**
+
+## 📫 Contacto
+
+Si quieres contactar conmigo, puedes encontrarme en:
+
+- [LinkedIn](https://www.linkedin.com/in/javierduarteperez)
+
+---
+
+Gracias por visitar mi perfil 💙
