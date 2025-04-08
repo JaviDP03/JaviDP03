@@ -6,10 +6,10 @@
 
 ## 🧰 Tecnologías que estoy usando/estudiando
 
-- Java (SpringBoot, JDBC)
-- Angular HTML, CSS, JavaScript
+- Java (Spring Boot, JDBC)
+- HTML, CSS, JavaScript/TypeScript (Angular)
 - MySQL, SQL Server
-- Git & Subversion
+- Git, Subversion
 - Delphi
 
 ## 📌 Objetivos actuales
