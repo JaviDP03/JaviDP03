@@ -8,7 +8,7 @@
 
 - Java (Spring Boot, JDBC)
 - HTML, CSS, JavaScript/TypeScript (Angular)
-- MySQL, SQL Server
+- MySQL, PostgreSQL, SQL Server
 - Git, Subversion
 - Delphi
 
